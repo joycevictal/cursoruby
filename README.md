@@ -1,6 +1,6 @@
 # Ruby 
 
-Atividades desenvolvidas no curso de Ruby do Alura.
+Projeto do curso do Alura sobre Ruby.
 
 **Objetivos :** 
 
